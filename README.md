@@ -3,6 +3,7 @@
 |:-------------:|------:|
 |  Sudhanshu | maintainer |
 | Avinash | Member |
+| Nikhil | Contributor |
 |  Harsh   |  maintainer |
 | Priyanshu | designer |
 | Ritik jha | Member |
